@@ -5,16 +5,16 @@ author: Tiago Ribeiro <tiagopribeiro.1992@gmail.com>
 homepage: https://github.com/CrossPT/flutter_plugin_pdf_viewer
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cache_manager: ^1.0.0
-  path_provider: ^1.1.0
+  flutter_cache_manager: ^1.4.1
+  path_provider: ^1.6.11
   rxdart: ^0.24.1
-  numberpicker: ^1.0.0
-  flutter_advanced_networkimage: ^0.5.0
+  numberpicker: ^1.2.0
+  flutter_advanced_networkimage: ^0.7.0
 
 flutter:
   plugin:
